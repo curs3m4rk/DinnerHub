@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DinnerHub.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27c297da9c2589aa31766fbff965f7d46a7f13ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6efc6a2e3cdd53d5d5a0576149405b2e1a970dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("DinnerHub.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DinnerHub.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

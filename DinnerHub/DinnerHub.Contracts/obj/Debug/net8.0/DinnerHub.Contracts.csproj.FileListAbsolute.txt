@@ -1,0 +1,12 @@
+D:\GitRepos\DinnerHub\DinnerHub\DinnerHub.Contracts\bin\Debug\net8.0\DinnerHub.Contracts.deps.json
+D:\GitRepos\DinnerHub\DinnerHub\DinnerHub.Contracts\bin\Debug\net8.0\DinnerHub.Contracts.dll
+D:\GitRepos\DinnerHub\DinnerHub\DinnerHub.Contracts\bin\Debug\net8.0\DinnerHub.Contracts.pdb
+D:\GitRepos\DinnerHub\DinnerHub\DinnerHub.Contracts\obj\Debug\net8.0\DinnerHub.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitRepos\DinnerHub\DinnerHub\DinnerHub.Contracts\obj\Debug\net8.0\DinnerHub.Contracts.AssemblyInfoInputs.cache
+D:\GitRepos\DinnerHub\DinnerHub\DinnerHub.Contracts\obj\Debug\net8.0\DinnerHub.Contracts.AssemblyInfo.cs
+D:\GitRepos\DinnerHub\DinnerHub\DinnerHub.Contracts\obj\Debug\net8.0\DinnerHub.Contracts.csproj.CoreCompileInputs.cache
+D:\GitRepos\DinnerHub\DinnerHub\DinnerHub.Contracts\obj\Debug\net8.0\DinnerHub.Contracts.sourcelink.json
+D:\GitRepos\DinnerHub\DinnerHub\DinnerHub.Contracts\obj\Debug\net8.0\DinnerHub.Contracts.dll
+D:\GitRepos\DinnerHub\DinnerHub\DinnerHub.Contracts\obj\Debug\net8.0\refint\DinnerHub.Contracts.dll
+D:\GitRepos\DinnerHub\DinnerHub\DinnerHub.Contracts\obj\Debug\net8.0\DinnerHub.Contracts.pdb
+D:\GitRepos\DinnerHub\DinnerHub\DinnerHub.Contracts\obj\Debug\net8.0\ref\DinnerHub.Contracts.dll

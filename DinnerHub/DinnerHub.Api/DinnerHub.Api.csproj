@@ -14,6 +14,7 @@
   <ItemGroup>
     <ProjectReference Include="..\DinnerHub.Contracts\DinnerHub.Contracts.csproj" />
     <ProjectReference Include="..\DinnerHub.Application\DinnerHub.Application.csproj" />
+    <ProjectReference Include="..\DinnerHub.Infrastructure\DinnerHub.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

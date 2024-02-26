@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "DinnerHub.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DinnerHub.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DinnerHub.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DinnerHub.Application.dll": {}
+        }
+      },
+      "DinnerHub.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DinnerHub.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DinnerHub.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DinnerHub.Application/1.0.0": {
+      "type": "project",
+      "path": "../DinnerHub.Application/DinnerHub.Application.csproj",
+      "msbuildProject": "../DinnerHub.Application/DinnerHub.Application.csproj"
+    },
+    "DinnerHub.Domain/1.0.0": {
+      "type": "project",
+      "path": "../DinnerHub.Domain/DinnerHub.Domain.csproj",
+      "msbuildProject": "../DinnerHub.Domain/DinnerHub.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "DinnerHub.Application >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Pujya.Preyans\\.nuget\\packages\\": {}
@@ -33,7 +70,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\GitRepos\\DinnerHub\\DinnerHub\\DinnerHub.Application\\DinnerHub.Application.csproj": {
+              "projectPath": "D:\\GitRepos\\DinnerHub\\DinnerHub\\DinnerHub.Application\\DinnerHub.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
